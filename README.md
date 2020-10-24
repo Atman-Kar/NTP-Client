@@ -1,7 +1,7 @@
 # NTP-Client
 Creating a simple NTP (Network TIme Protocol) client in C
 
-#Running the code
+Running the code
 ```
 $ gcc ntp_client.c
 $ ./a.out
